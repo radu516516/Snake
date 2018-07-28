@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1457704411 source:c:\users\radu\desktop\snake\snake\main.cpp
+	<iostream>
+	<windows.h>
+	"snake.h"
+
+1457704345 c:\users\radu\desktop\snake\snake\snake.h
+
+1457704792 source:c:\users\radu\desktop\snake\snake\snake.cpp
+	"snake.h"
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+
+1457729428 source:i:\facultate\proiect\snare 2.0\snake\snake.cpp
+	"snake.h"
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+
+1457726454 i:\facultate\proiect\snare 2.0\snake\snake.h
+
+1457729390 source:i:\facultate\proiect\snare 2.0\snake\main.cpp
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+	"snake.h"
+
+1457730570 source:i:\facultate\proiect\snake 3.0\snake\main.cpp
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+	"snake.h"
+
+1457726454 i:\facultate\proiect\snake 3.0\snake\snake.h
+
+1457730570 source:i:\facultate\proiect\snake 3.0\snake\snake.cpp
+	"snake.h"
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+
+1457768518 source:i:\facultate\proiect\snake 0.4\snake\main.cpp
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+	"snake.h"
+
+1457768600 i:\facultate\proiect\snake 0.4\snake\snake.h
+
+1457768316 source:i:\facultate\proiect\snake 0.4\snake\snake.cpp
+	"snake.h"
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+
+1457768903 source:c:\users\radu\desktop\snake 0.4.2\snake\main.cpp
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+	"snake.h"
+
+1457768600 c:\users\radu\desktop\snake 0.4.2\snake\snake.h
+
+1457769132 source:c:\users\radu\desktop\snake 0.4.2\snake\snake.cpp
+	"snake.h"
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+
+1457772503 source:f:\lol\snake 0.4.2\snake\main.cpp
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+	"snake.h"
+
+1457772200 f:\lol\snake 0.4.2\snake\snake.h
+
+1457772732 source:f:\lol\snake 0.4.2\snake\snake.cpp
+	"snake.h"
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<time.h>
+
